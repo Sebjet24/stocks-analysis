@@ -23,7 +23,7 @@
 ![Capture_3](https://user-images.githubusercontent.com/91230277/141711514-9285293a-d6e3-4464-adf4-7fba9386a792.PNG)
  - Then I finished the code by printing out onto the "All Stocks Analysis" the finished results for each category.
 
-![Capture_3](https://user-images.githubusercontent.com/91230277/141711575-23fa3c72-1493-4187-9d72-ebab56301668.PNG)
+![Capture_4](https://user-images.githubusercontent.com/91230277/141712494-722dd9df-516c-4b30-8e51-d836c0092837.PNG)
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/91230277/141711723-224f0c61-8e83-4851-b87d-f0238a33dca9.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/91230277/141711724-265b94ad-a7ef-4bf0-a970-d9cd25ef8812.png)
 
